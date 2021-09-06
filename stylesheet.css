@@ -14,7 +14,8 @@
 .container-transportasi {
   width: 1170px;  
   padding: 0 15px;
-    margin: 0 auto;
+  margin: 0 auto;
+  background-color: cadetblue;
   }
 
   .container-transportasi h3 {
@@ -22,6 +23,7 @@
     font-size: 15px;
     letter-spacing: 2px;
     margin-bottom: 10px;
+    padding: 0 15px;
   }
 
 .btn-transportasi {
