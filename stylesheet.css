@@ -56,10 +56,10 @@ li {
 
 .btn-transportasi {
   padding: 12px 24px ;
-  color: rebeccapurple;
+  color: #ffff;
   display: inline-block;
   opacity: 0.8; 
-  background-color: aqua; 
+  background-color:#00344d; 
 }
 
 .btn-transportasi p {
