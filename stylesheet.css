@@ -12,16 +12,20 @@
   
 
 .container-transportasi {
-    padding: 0 15px;
+  width: 1170px;  
+  padding: 0 15px;
     margin: 0 auto;
   }
 
 .btn-transportasi {
- width: 1170px;  
+  padding: 12px 24px ;
+  color: rebeccapurple;
+  display: inline-block;
+  opacity: 0.8; 
+  background-color: aqua; 
 }
 
 .btn-transportasi p {
-    background-color: aqua;
     padding: 12px 24px ;
 }
 
