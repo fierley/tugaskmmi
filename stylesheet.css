@@ -1,0 +1,45 @@
+.flex-list {
+    list-style: none;
+    margin: 0px;
+    padding: 60px 0px;
+    text-align: center;
+    display: flex;
+  }
+ 
+  .flex-list li {
+    flex: auto;
+  }
+  
+
+.container-transportasi {
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+.btn-transportasi {
+ width: 1170px;  
+}
+
+.btn-transportasi p {
+    background-color: aqua;
+    padding: 12px 24px ;
+}
+
+@media (max-width: 1000px) {
+    .flex-list {
+      flex-wrap: wrap;
+    }
+    .flex-list li {
+      width: 50%;
+    }
+  }
+  
+  @media (max-width: 670px) {
+    .flex-list {
+      flex-direction: column;
+    }
+    
+    .flex-list li {
+      margin: 0 auto;
+    }
+  }
