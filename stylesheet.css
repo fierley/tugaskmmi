@@ -1,3 +1,40 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "lucida Grande";
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: #00344d;
+    color: #fff;
+    height: 90px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 38px;
+    padding: 22px 42px;
+}
+
+.header-list {
+    float: left;
+}
+
+.header-list li {
+    float: left;
+    padding: 34px 22px;
+}
+
 .flex-list {
     list-style: none;
     margin: 0px;
