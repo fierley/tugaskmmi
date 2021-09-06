@@ -1,13 +1,12 @@
 html, body,
 ul, ol, li,
-h1, h2, h3, h4, h5, h6, p,
-form, input, div {
+h1, h2, h3, h4, h5, h6, p, div {
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: "lucida Grande";
+    font-family: "Lucida Grande";
 }
 
 li {
@@ -16,21 +15,21 @@ li {
 
 .header {
     background-color: #00344d;
-    color: #fff;
+    color: #ffffff;
     height: 90px;
 }
 
 .header-logo {
     float: left;
-    font-size: 38px;
-    padding: 22px 42px;
+    font-size: 36px;
+    padding: 20px 40px;
 }
 
 .header-list {
     float: left;
 }
 
-.header-list li {
+.header-list li{
     float: left;
     padding: 34px 22px;
 }
