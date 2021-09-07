@@ -198,22 +198,6 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
-}
-
-footer p {
-  color: #2d3436;
-  font-size: 12px;
-}
-
-footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
-}
-
-
-
 .flex-list {
     list-style: none;
     margin: 0px;
@@ -225,16 +209,8 @@ footer {
   .flex-list li {
     flex: auto;
   }
-  
 
-.container-transportasi {
-  width: 1170px;  
-  padding: 0 15px;
-  margin: 0 auto;
-  background-color: cadetblue;
-  }
-
-  .container-transportasi h3 {
+  .container h3 {
     opacity: 0.7;
     font-size: 15px;
     letter-spacing: 2px;
@@ -274,3 +250,17 @@ footer {
   padding-bottom: 20px;
 }
 
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #2d3436;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
