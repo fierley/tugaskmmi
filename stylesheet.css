@@ -93,4 +93,25 @@ li {
       margin: 0 auto;
       padding: 10px;
     }
+
+    .footer {
+      background-color: #00344d;
+      Color:#fff;
+      height: 120px;
+      padding: 42px;
+  }
+  
+  .footer-logo {
+      float: left;
+      font-size: 33px;
+  }
+  
+  .footer-list {
+      float: right;
+  }
+  
+  .footer-list {
+      padding-bottom: 20px;
+  }
+  
   }
